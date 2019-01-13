@@ -1457,7 +1457,7 @@ input, select, textarea {
 				transition-delay: 0.1s;
 			}
 
-			.gallery article:nth-last-child(3n) {
+			.gallery -:nth-last-child(3n) {
 				-moz-transition-delay: 0.1s;
 				-webkit-transition-delay: 0.1s;
 				-ms-transition-delay: 0.1s;
